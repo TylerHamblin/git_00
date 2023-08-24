@@ -1,7 +1,7 @@
 ---
 title: "Poem"
 
-author: "Your Name here"
+author: "Tyler Hamblin"
 date: "Year 2020"
 output: html_document
 ---
